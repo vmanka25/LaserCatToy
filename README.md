@@ -1,7 +1,7 @@
 # LaserCatToy
 
 * Psuedo code
-
+```C++
 // portable button controlled servo
 */ // This will move a servo back and forth, based on pressing 2 buttons
 // startup the servo
@@ -23,7 +23,7 @@ void loop() {
       //how do we stop the servo?
 
 }
-
+```
 * Link to google doc
 
 https://docs.google.com/document/d/1j5MdDleZUu98y5knqwqvsEoK6fcETlX_6FQEk443yGY/edit?usp=sharing
