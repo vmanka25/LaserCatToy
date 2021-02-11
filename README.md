@@ -3,7 +3,7 @@
 * Psuedo code
 ```C++
 // portable button controlled servo
-*/ // This will move a servo back and forth, based on pressing 2 buttons
+ // This will move a servo back and forth, based on pressing 2 buttons
 // startup the servo
 
 
