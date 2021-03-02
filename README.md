@@ -27,3 +27,10 @@ void loop() {
 * Link to google doc
 
 https://docs.google.com/document/d/1j5MdDleZUu98y5knqwqvsEoK6fcETlX_6FQEk443yGY/edit?usp=sharing
+
+
+
+
+# Tuesday March 7
+
+I am working on the code(Leo)  I need to put more work in on that because I am a little behind.  I learned that i need to manage my time better especially in class.  I will be working on it daily trying to catch up and I will probably need to come to office hours on friday.  
