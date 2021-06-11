@@ -107,3 +107,4 @@ the code is above
 materials
 3d printer,laser cut plastic, arduino components.
 The First thing I did while making the toy was design a hollow cone to house the electronics, I then made sure everything fit on Onshape. After I did the cone I designed something to hold the laser on an angle, so that when the motor spun it it would make a circle. after I finished designing the toy on Onshape, we printed the cone and laser cut the base. There were a couple problems assembling the cone. I designed the cone to small so fitting everything was pretty hard, another issue, was the laser made a tiny circle. I think If I were to redesign it I would chose a more efficient shape that used less filament, but had more room for everything. when testing the toy my cats ripped out a wire before I could take a video, so all I got were pictures.
+https://cvilleschools.onshape.com/documents/19440993f3284106738a8272/w/7b91d9de4ebb5ec9eb933385/e/f77b28bb06586606944d1c6d
